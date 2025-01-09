@@ -1,5 +1,5 @@
 # HR_dashboard_PowerBi
-  #Importing CSV Files into Power BI
+  # Importing CSV Files into Power BI
    datasets sous forme de fichiers CSV, ont été importés dans PowerBI depuis une source locale. Une fois importés, chaque fichier CSV a été traité par Power BI comme une table distincte. Cela signifie que chaque fichier est devenu une table propre, mais sous une forme brute, nécessitant des transformations supplémentaires pour être prêt à l'analyse. Ces transformations incluent le nettoyage des données, la création de relations entre les tables et l'ajout de calculs ou de colonnes conditionnelles, afin d’adapter les données à des visualisations précises.
    
   # Data Cleaning
