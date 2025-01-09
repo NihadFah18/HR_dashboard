@@ -13,5 +13,8 @@ La phase de data cleaning  a consisté à identifier et à gérer les valeurs nu
  Une fois les données traitées, l’étape suivante a consisté à transformer ces informations en visualisations adaptées à l’analyse. Selon les besoins spécifiques de l’analyse, différents types de visualisations ont été utilisés. Par exemple, des graphiques à barres ont été employés pour comparer des catégories de données, tandis que des graphiques en ligne ont permis de suivre les tendances au fil du temps. Des tableaux croisés dynamiques ont été utilisés pour résumer les informations à travers plusieurs dimensions et  des graphiques circulaires ont aidé à représenter les répartitions proportionnelles des données 
 Les mesures et indicateurs ont été calculés pour fournir des informations précises et pertinentes. Des calculs tels que les totaux, les moyennes ou les indicateurs conditionnels ont été réalisés pour obtenir des insights plus détaillés. 
 
-#DashBoard
+# DashBoard
+<img width="603" alt="dash1" src="https://github.com/user-attachments/assets/1f618833-b916-4820-83af-3eb6a014262a" />
+<img width="600" alt="DASH3" src="https://github.com/user-attachments/assets/128dc7dc-2c9e-43aa-9b62-cea772b1bc34" />
+<img width="603" alt="DASH2" src="https://github.com/user-attachments/assets/da2415a0-8cfc-4261-9870-7b5e892fe519" />
 
